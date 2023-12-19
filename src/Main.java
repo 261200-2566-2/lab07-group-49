@@ -5,8 +5,8 @@ public class Main {
 
     static class Lab07{
         static void test(){
-            Set<String> s1 = new Set<>();
-            Set<String> s2 = new Set<>();
+            set<String> s1 = new set<>();
+            set<String> s2 = new set<>();
 
             s1.add("OOP");
             s1.add("ez");
